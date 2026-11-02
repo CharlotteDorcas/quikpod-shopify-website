@@ -1,2 +1,14 @@
-# quikpod-shopify-website
-Shopify eCommerce website designed from scratch using GemPages. Featuring custom page layouts, product presentation, and a user-focused shopping experience.
+# QuikPod – Shopify Website Design
+
+Designed and built from scratch using Shopify and GemPages.
+
+**Live Website:** https://quikpod.com
+
+**Platform:** Shopify  
+**Page Builder:** GemPages
+
+This project showcases my Shopify website design work, including custom page layouts and product presentation.
+
+## Website Preview
+
+Screenshots of the desktop and mobile designs are included in this repository.
